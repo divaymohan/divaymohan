@@ -66,7 +66,7 @@ Software Engineer with over 2.5 years of experience in software development. Acc
 
 ### Stats
 
-<img align="left" alt="rajrohanyadav's Github Stats" src="https://github-readme-stats.rajrohanyadav.vercel.app/api?username=rajrohanyadav&show_icons=true&hide_border=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+<img align="left" alt="divaymohan's Github Stats" src="https://github-readme-stats.divaymohan.vercel.app/api?username=divaymohan&show_icons=true&hide_border=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 
 [twitter]: https://twitter.com/divay_mohan
 [linkedin]: https://www.linkedin.com/in/divaymohan
