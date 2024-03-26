@@ -12,7 +12,6 @@ Software Engineer with over 2.5 years of experience in software development. Acc
 ### Socials
 [<img src="https://img.shields.io/badge/Divay%20Mohan-0A0A0A.svg?&logo=devdotto&logoColor=white"/>][dev.to]
 [<img src="https://img.shields.io/badge/divaymohan-0A66C2.svg?&logo=linkedin&logoColor=white"/>][linkedin]
-[<img src="https://img.shields.io/badge/Divay%20Mohan-5865F2.svg?&logo=Discord&logoColor=white"/>][discord]
 [<img src="https://img.shields.io/badge/divaymohan-000000.svg?&logo=x&logoColor=white"/>][Twitter]
 
 ### Languages
