@@ -66,7 +66,7 @@ Software Engineer with over 2.5 years of experience in software development. Acc
 
 ### Stats
 
-![Divay's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Divay's GitHub stats](https://github-readme-stats.vercel.app/api?username=divaymohan&theme=dark&show_icons=true)
 
 [twitter]: https://twitter.com/divay_mohan
 [linkedin]: https://www.linkedin.com/in/divaymohan
