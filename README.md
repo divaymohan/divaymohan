@@ -15,8 +15,8 @@ Software Engineer with over 2.5 years of experience in software development. Acc
 [<img src="https://img.shields.io/badge/divaymohan-000000.svg?&logo=x&logoColor=white"/>][Twitter]
 
 ### Languages
-
-<img src="https://img.shields.io/badge/Go%20-00ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/python%20-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/python%20-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/python%20-3776AB.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript%20-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/> 
 <img src="https://img.shields.io/badge/typescript%20-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> 
 <img src="https://img.shields.io/badge/markdown-000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
@@ -24,10 +24,10 @@ Software Engineer with over 2.5 years of experience in software development. Acc
 <img src="https://img.shields.io/badge/css3%20-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/bash-4EAA25.svg?&style=for-the-badge&logo=gnubash&logoColor=white"/>
 <img src="https://img.shields.io/badge/rust-000000.svg?&style=for-the-badge&logo=rust&logoColor=white"/>
-<img src="https://img.shields.io/badge/dart-0175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/sass%20-CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white"/>
-<img src="https://img.shields.io/badge/ansible-EE0000.svg?&style=for-the-badge&logo=ansible&logoColor=white"/>
-<img src="https://img.shields.io/badge/groovy-4298B8.svg?&style=for-the-badge&logo=apachegroovy&logoColor=white"/>
+<img src="https://img.shields.io/badge/dart-0175C2.svg?&style=for-the-badge&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/dart-0175C2.svg?&style=for-the-badge&logo=C++&logoColor=white"/>
+<img src="https://img.shields.io/badge/sass%20-CC6699.svg?&style=for-the-badge&logo=saas&logoColor=white"/>
+<img src="https://img.shields.io/badge/ansible-EE0000.svg?&style=for-the-badge&logo=terraform&logoColor=white"/>
 <img src="https://img.shields.io/badge/swagger-85EA2D.svg?&style=for-the-badge&logo=swagger&logoColor=white"/>
 
 ### Tools and Frameworks
