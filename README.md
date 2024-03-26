@@ -1,18 +1,19 @@
-## Hi there, I'm Rohan
+## Hi there, I'm Divay
 
-### Senior Engineer @ Teradata
+### Formar Software Engineer @ Teradata
+### Founding Engineer @Flos
 #### Summary
-Senior Engineer with over 3 years of experience in software development. Accomplished in modern software design and development processes. Demonstrated expertise in building cloud-based solutions and ensuring their seamless integration with existing systems. A quick learner with excellent problem-solving skills, capable of adapting to new technologies and frameworks. Strong communication skills, fostering effective collaboration with cross-functional teams.
-- Currently working with Go, Python, Java, and TypeScript
-- Building scalable, robust, real-time Identity and Authorization solutions for Teradata
-- Designing services that Authenticate millions of users daily in the cloud
-- I like designing UI/UX for websites & apps in my free time
+Software Engineer with over 2.5 years of experience in software development. Accomplished in modern software design and development processes. Demonstrated expertise in building saas-based solutions and ensuring their seamless integration with existing systems. A quick learner with excellent problem-solving skills, capable of adapting to new technologies and frameworks. Strong communication skills, fostering effective collaboration with cross-functional teams.
+- Currently working with Python, Java, and Rust
+- Building scalable, robust, real-time and data intensive loan application for flos
+- Designing services that reduce the distance between lender and consumer
+- I love building multi-purpose endpoint in my free time
 
 ### Socials
 [<img src="https://img.shields.io/badge/Divay%20Mohan-0A0A0A.svg?&logo=devdotto&logoColor=white"/>][dev.to]
-[<img src="https://img.shields.io/badge/rajrohanyadav-0A66C2.svg?&logo=linkedin&logoColor=white"/>][linkedin]
-[<img src="https://img.shields.io/badge/Rohan%20Yadav-5865F2.svg?&logo=Discord&logoColor=white"/>][discord]
-[<img src="https://img.shields.io/badge/rajrohanyadav-000000.svg?&logo=x&logoColor=white"/>][Twitter]
+[<img src="https://img.shields.io/badge/divaymohan-0A66C2.svg?&logo=linkedin&logoColor=white"/>][linkedin]
+[<img src="https://img.shields.io/badge/Divay%20Mohan-5865F2.svg?&logo=Discord&logoColor=white"/>][discord]
+[<img src="https://img.shields.io/badge/divaymohan-000000.svg?&logo=x&logoColor=white"/>][Twitter]
 
 ### Languages
 
