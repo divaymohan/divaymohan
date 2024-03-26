@@ -17,16 +17,14 @@ Software Engineer with over 2.5 years of experience in software development. Acc
 ### Languages
 <img src="https://img.shields.io/badge/python%20-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/> ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 <img src="https://img.shields.io/badge/javascript%20-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/> 
-<img src="https://img.shields.io/badge/typescript%20-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> 
 <img src="https://img.shields.io/badge/markdown-000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
 <img src="https://img.shields.io/badge/html5%20-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3%20-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/bash-4EAA25.svg?&style=for-the-badge&logo=gnubash&logoColor=white"/>
 <img src="https://img.shields.io/badge/rust-000000.svg?&style=for-the-badge&logo=rust&logoColor=white"/>
-<img src="https://img.shields.io/badge/dart-0175C2.svg?&style=for-the-badge&logo=C&logoColor=white"/>
-<img src="https://img.shields.io/badge/dart-0175C2.svg?&style=for-the-badge&logo=C++&logoColor=white"/>
-<img src="https://img.shields.io/badge/sass%20-CC6699.svg?&style=for-the-badge&logo=saas&logoColor=white"/>
-<img src="https://img.shields.io/badge/ansible-EE0000.svg?&style=for-the-badge&logo=terraform&logoColor=white"/>
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 <img src="https://img.shields.io/badge/swagger-85EA2D.svg?&style=for-the-badge&logo=swagger&logoColor=white"/>
 
 ### Tools and Frameworks
