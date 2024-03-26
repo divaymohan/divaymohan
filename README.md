@@ -15,7 +15,7 @@ Software Engineer with over 2.5 years of experience in software development. Acc
 [<img src="https://img.shields.io/badge/divaymohan-000000.svg?&logo=x&logoColor=white"/>][Twitter]
 
 ### Languages
-<img src="https://img.shields.io/badge/python%20-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/python%20-3776AB.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/python%20-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/java%20-3776AB.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript%20-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/> 
 <img src="https://img.shields.io/badge/typescript%20-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> 
 <img src="https://img.shields.io/badge/markdown-000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
