@@ -2,9 +2,8 @@
 
 ### Former Software Engineer @ Teradata @ AirAsia
 
-### Founding Engineer @FLOS
 #### Summary
-Software Engineer with over 2.5 years of experience in software development. Accomplished in modern software design and development processes. Demonstrated expertise in building saas-based solutions and ensuring their seamless integration with existing systems. A quick learner with excellent problem-solving skills, capable of adapting to new technologies and frameworks. Strong communication skills, fostering effective collaboration with cross-functional teams.
+Software Engineer with over 3.5 years of experience in software development. Accomplished in modern software design and development processes. Demonstrated expertise in building saas-based solutions and ensuring their seamless integration with existing systems. A quick learner with excellent problem-solving skills, capable of adapting to new technologies and frameworks. Strong communication skills, fostering effective collaboration with cross-functional teams.
 - Currently working with Python, Java, and Rust
 - Building scalable, robust, real-time and data intensive loan application for flos
 - Designing services that reduce the distance between lender and consumer
