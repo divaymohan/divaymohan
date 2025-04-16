@@ -1,6 +1,6 @@
 ## Hi there, I'm Divay
 
-### Former Software Engineer @ Teradata @ AirAsia
+### Sr. Sofware Engineer 
 
 #### Summary
 Software Engineer with over 3.5 years of experience in software development. Accomplished in modern software design and development processes. Demonstrated expertise in building saas-based solutions and ensuring their seamless integration with existing systems. A quick learner with excellent problem-solving skills, capable of adapting to new technologies and frameworks. Strong communication skills, fostering effective collaboration with cross-functional teams.
